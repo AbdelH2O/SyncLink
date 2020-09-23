@@ -10,6 +10,7 @@ Create a virtual environment:
 virtualenv venv
 ```
 Activate your virtual environment:
+
 +For Linux and MacOS
 ```
 source venv/bin/activate
